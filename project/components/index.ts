@@ -7,6 +7,7 @@ import Footer from "./Footer";
 import CarCard from "./CarCard";
 import SearchManufacturer from "./SearchManufacturer";
 import CardDetails from "./CardDetails";
+import ShowMore from "./ShowMore";
 
 export {
   Navbar,
@@ -18,4 +19,5 @@ export {
   SearchBar,
   SearchManufacturer,
   CardDetails,
+  ShowMore,
 };
